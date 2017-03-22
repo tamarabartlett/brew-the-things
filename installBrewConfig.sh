@@ -9,6 +9,7 @@ brew install speedtest_cli
 brew install gradle
 
 brew cask install docker
+brew cask install aws-cfn-tools
 brew cask install spectacle
 brew cask install toggldesktop
 brew cask install tomighty
@@ -24,6 +25,7 @@ brew cask install evernote
 brew cask install firefox
 brew cask install spotify
 brew cask install kindle
+brew cask install chefdk
 brew cask install intellij-idea
 
 # Other Stuff I did

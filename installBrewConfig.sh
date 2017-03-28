@@ -28,6 +28,7 @@ brew cask install kindle
 brew cask install chefdk
 brew cask install intellij-idea
 
+mv zshrc ~/.zshrc
 # Other Stuff I did
 ## Download Feedly
 ## Any.Do
